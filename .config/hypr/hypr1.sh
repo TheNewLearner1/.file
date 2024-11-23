@@ -1,6 +1,6 @@
 rm -rf ~/.config
 cd ~/.dotfiles
 stow .
-killall hyprpaper
+pkill hyprpaper
 hyprpaper
 
