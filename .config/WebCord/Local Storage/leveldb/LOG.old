@@ -1,0 +1,8 @@
+2025/01/29-19:32:57.833 173c Reusing MANIFEST /home/omnia/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
+2025/01/29-19:32:57.860 173c Recovering log #4
+2025/01/29-19:32:57.861 173c Level-0 table #7: started
+2025/01/29-19:32:57.867 173c Level-0 table #7: 28500 bytes OK
+2025/01/29-19:32:57.869 173c Delete type=0 #4
+2025/01/29-19:35:00.290 173d Level-0 table #10: started
+2025/01/29-19:35:00.293 173d Level-0 table #10: 39900 bytes OK
+2025/01/29-19:35:00.295 173d Delete type=0 #8
