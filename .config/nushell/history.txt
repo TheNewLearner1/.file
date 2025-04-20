@@ -1,0 +1,37 @@
+nvim
+ls
+clear
+z
+touch history.txt
+stow history.txt ~/.config/nushell
+mkdir history
+yazi
+clear
+stow history ~/.config/nushell
+ls
+clear
+yazi
+z
+stow history ~/.config/nushell
+clear
+exti
+exit
+zellij
+clear
+z .f
+add-conf
+fzf
+fzf | nvim
+clear
+fzf | nvim
+clear
+ls
+nvim
+clear
+haki-nvim
+fzf
+z  nu
+nvim
+clear
+z
+z .c
